@@ -1,8 +1,8 @@
 # Problem-A-Saving-the-Universe
-Problem A as part of  Qualification Round of the 2008 Google Code Jam
+Problem A as part of the Qualification Round of the 2008 Google Code Jam
 
 
-Problem
+## Problem
 
 The urban legend goes that if you go to the Google homepage and search for "Google", the universe will implode. We have a secret to share... It is true! Please don't try it, or tell anyone. All right, maybe not. We are just kidding.
 
@@ -12,7 +12,7 @@ To combat this, people came up with an interesting solution. All queries are poo
 
 Your task is to tell us how many times the central system will have to switch between search engines, assuming that we program it optimally.
 
-Input
+## Input
 
 The first line of the input file contains the number of cases, N. N test cases follow.
 
@@ -20,7 +20,7 @@ Each case starts with the number S -- the number of search engines. The next S l
 
 The following line contains a number Q -- the number of incoming queries. The next Q lines will each contain a query. Each query will be the name of a search engine in the case.
 
-Output
+## Output
 
 For each input case, you should output: Case #X: Y
 
